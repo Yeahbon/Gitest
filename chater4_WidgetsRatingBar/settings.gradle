@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "chater4_WidgetsRatingBar"
